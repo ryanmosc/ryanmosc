@@ -8,14 +8,14 @@
 
 #
 
-<p align="center">Me chamo Ryan Oliveira Moscardini, tenho 18 anos e sou do interior de São Paulo. Concluí o ensino médio na ETEC Dr. Júlio Cardoso, com o curso técnico em mecatronica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Dr. Thomaz Novelino. Sou apaixonada por tecnologia e Inovaçoes.
+<p align="center">Me chamo Ryan Oliveira Moscardini, tenho 18 anos e sou do interior de São Paulo. Concluí o ensino médio na ETEC Dr. Júlio Cardoso, com o curso técnico em mecatronica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Dr. Thomaz Novelino. Sou apaixonado por tecnologia e Inovaçoes.
 #
 
 
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ryanoliveiramosc.com.098@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/ryan-moscardini-b7b6372ba)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ryan-moscardini-b7b6372ba/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ryann_xvs/)
 
 
