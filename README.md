@@ -26,3 +26,9 @@ Email: ryanoliveiramosc.com.098@gmail.com
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+<picture align="center">More actions
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanmosc/ryanmosc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanmosc/ryanmosc/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanmosc/ryanmosc/output/github-contribution-grid-snake.svg">
+</picture>
