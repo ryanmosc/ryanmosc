@@ -7,10 +7,10 @@
 
 <img align="center" alt="" src="./src/banner.png">
 
-#
+
 
 <p align="center">Me chamo Ryan Oliveira Moscardini, tenho 18 anos e sou do interior de São Paulo. Concluí o ensino médio na ETEC Dr. Júlio Cardoso, com o curso técnico em mecatronica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Dr. Thomaz Novelino. Sou apaixonado por tecnologia e Inovaçoes.
-#
+
 
 
 <h3 align="left">Connect with me!</h3>
@@ -23,6 +23,7 @@
 <h3 align="left">My Stacks </h3>
 
 
+<!-- HTML -->
 <img 
     align="left" 
     alt="HTML"
@@ -31,6 +32,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
+<!-- CSS -->
 <img 
     align="left" 
     alt="CSS" 
@@ -39,6 +42,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<!-- JavaScript -->
 <img 
     align="left" 
     alt="JavaScript" 
@@ -47,37 +52,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<!-- Java -->
 <img 
     align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
-/>
- 
-
-
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
+<!-- Python -->
 <img 
     align="left" 
     alt="Python" 
@@ -87,8 +73,48 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<!-- Flask -->
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px; background-color: white; border-radius: 5px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+
+<!-- MySQL -->
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<!-- PostgreSQL -->
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<!-- Git -->
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/><br/>
+
 
 ### 📊 Estatísticas
 
