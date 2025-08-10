@@ -1,145 +1,56 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8000FF&center=true&vCenter=true&random=false&width=550&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
+<div id="header" align="center">
+  
+  <h1 align="center">
+      <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryan+Oliveira+Moscardini!;" />
+      <img width="67" height="67" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Obi-Wan-star-wars-flat-icons-inmotus-design.png" alt="external-Obi-Wan-star-wars-flat-icons-inmotus-design"/>
+  </h1>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ryan-moscardini-b7b6372ba/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/ryann_xvs/">
+      <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=ryanmosc&style=flat-square&color=7AB1F0" alt=""/>
+  <br/>
+  
 </div>
 
+<br/>
 
-<img align="center" alt="" src="./src/banner.png">
+<div align="center">
 
+👋 Hi, I’m Ryan Oliveira Moscardini
 
+👀 I’m interested in technology and innovations
 
-<p align="center">Me chamo Ryan Oliveira Moscardini, tenho 18 anos e sou do interior de São Paulo. Concluí o ensino médio na ETEC Dr. Júlio Cardoso, com o curso técnico em mecatronica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Dr. Thomaz Novelino. Sou apaixonado por tecnologia e Inovaçoes.
+🌱 I’m currently learning Analysis and Systems Development at FATEC Dr. Thomaz Novelino
 
+💞️ I’m looking to collaborate on innovative tech projects and system development
 
+📫 How to reach me ryanoliveiramosc.com.098@gmail.com or https://www.instagram.com/ryann_xvs/
 
-<h3 align="left">Connect with me!</h3>
+</div>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:ryanoliveiramosc.com.098@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/ryan-moscardini-b7b6372ba/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ryann_xvs/)
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql,postgresql,git,docker,java" /><br>
+</div>
 
-<h3 align="left">My Stacks </h3>
+<br/>
+<hr/>
 
-
-<!-- HTML -->
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<!-- CSS -->
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<!-- JavaScript -->
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-
-
-<!-- Java -->
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<!-- Python -->
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<!-- Flask -->
-<img 
-    align="left" 
-    alt="Flask" 
-    title="Flask"
-    width="30px" 
-    style="padding-right: 10px; background-color: white; border-radius: 5px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-/>
-
-<!-- MySQL -->
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<!-- PostgreSQL -->
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<!-- Git -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/><br/>
-
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ryanmosc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-
-
-</p>
-
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanmosc/ryanmosc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanmosc/ryanmosc/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryanmosc/ryanmosc/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div style="text-align: center;" align="center">
- 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryanmosc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ryanmosc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ryanmosc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
