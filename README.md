@@ -2,7 +2,7 @@
   
   <h1 align="center">
       <img src="https://media.tenor.com/NlnpmndaKagAAAAi/mixflavor-coko.gif" width="100"/>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryan+Oliveira+Moscardini!;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryan+Moscardini!;" />
       <img width="67" height="67" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Obi-Wan-star-wars-flat-icons-inmotus-design.png" alt="external-Obi-Wan-star-wars-flat-icons-inmotus-design"/>
   </h1>
   
@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/ryan-moscardini-b7b6372ba/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/ryann_xvs/">
+    <a href="https://www.instagram.com//">
       <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -31,7 +31,7 @@
 
 💞️ I’m looking to collaborate on innovative tech projects and system development
 
-📫 How to reach me ryanoliveiramosc.com.098@gmail.com or https://www.instagram.com/ryann_xvs/
+📫 How to reach me ryanmoscardini708@gmail.com or https://www.instagram.com//
 
 </div>
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql,postgresql,git,docker,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,mysql,postgresql,git,docker,java,springboot" /><br>
 </div>
 
 <br/>
